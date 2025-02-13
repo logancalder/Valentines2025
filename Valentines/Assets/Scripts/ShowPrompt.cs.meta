@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: dd2114388309d244d8f6dd474cbfbc38
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - promptUI: {instanceID: 0}
+  - messageUI: {instanceID: 0}
+  - tryAgain: {instanceID: 0}
+  - textBackground: {instanceID: 0}
+  - choicePanel: {instanceID: 0}
+  - balloons: {instanceID: 0}
+  - choiceButton1: {instanceID: 0}
+  - choiceButton2: {instanceID: 0}
+  - choiceMenuAI: {instanceID: 0}
+  - playerMovementScript: {instanceID: 0}
+  - cameraAudioSource: {instanceID: 0}
+  - dialogueMusic: {instanceID: 0}
+  - selectNoise: {fileID: 8300000, guid: 467b19a6c47e5604caec26d92ce2e44e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
